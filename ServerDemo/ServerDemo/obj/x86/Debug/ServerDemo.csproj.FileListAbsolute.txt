@@ -1,0 +1,5 @@
+c:\users\lamhx\documents\visual studio 2010\Projects\ServerDemo\ServerDemo\bin\Debug\ServerDemo.exe
+c:\users\lamhx\documents\visual studio 2010\Projects\ServerDemo\ServerDemo\bin\Debug\ServerDemo.pdb
+c:\users\lamhx\documents\visual studio 2010\Projects\ServerDemo\ServerDemo\obj\x86\Debug\ServerDemo.exe
+c:\users\lamhx\documents\visual studio 2010\Projects\ServerDemo\ServerDemo\obj\x86\Debug\ServerDemo.pdb
+C:\Users\LamHX\Documents\Visual Studio 2010\Projects\ServerDemo\ServerDemo\obj\x86\Debug\ServerDemo.csprojResolveAssemblyReference.cache
