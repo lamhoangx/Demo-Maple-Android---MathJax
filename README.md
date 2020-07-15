@@ -1,6 +1,6 @@
 # Demo-Maple-Android---MathJax
 + Server impl by C# connect to Maple to solve problem <br>
-+ Android connect to server, request problem and show content response by MathJax.<br>
++ Android connect to server, request problem and show content response by [MathJax](https://www.mathjax.org/).<br>
 <br>
 <table>
   <tr>
